@@ -1,6 +1,9 @@
 # dialogue_TTS_maker_English
 基于edgeTTS开发的对话式文字转文字 / Conversational text-to-text conversion developed based on edgeTTS
 
+直接在release下载 default.exe使用，不需要安装任何东西，png是教程，word文档是案例 / You can download it from release. Double click default.exe to use it. 
+
+
 1. 可以单独生成音频，每句话最后可以增加停顿秒数 [pause_5]代表停顿5秒；
 2. 可以选择英式英语或者美式英语，口音等；
 3. 最多可以满足4人对话；
